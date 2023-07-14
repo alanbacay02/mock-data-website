@@ -14,29 +14,29 @@ const Cards = () => {
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
             <p className="py-2 border-b mx-8 mt-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8 mt-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">Send up to 2 GBs</p>
           </div>
           <button className="bg-[#00df9a] hover:brightness-90 w-[200px] rounded-md font-medium my-6 mx-auto py-3">Start Trial</button>
         </div>
         <div className="bg-gray-100 w-full shadow-xl flex flex-col p-4 my-8 md:my-0 rounded-lg hover:scale-105 duration-300">
           <img className="w-20 mx-auto mt-[-3rem] bg-transparent" src={Double} alt="double.png" />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">$149</p>
+          <h2 className="text-2xl font-bold text-center py-8">Double User</h2>
+          <p className="text-center text-4xl font-bold">$269</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8 mt-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8 mt-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">1.5 TB Storage</p>
+            <p className="py-2 border-b mx-8 mt-8">2 Granted Users</p>
+            <p className="py-2 border-b mx-8 mt-8">Send up to 2.5 GBs</p>
           </div>
           <button className="bg-black hover:bg-gray-950 hover:brightness-90 text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3">Start Trial</button>
         </div>
         <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300">
           <img className="w-20 mx-auto mt-[-3rem] bg-white" src={Triple} alt="triple.png" />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">$149</p>
+          <h2 className="text-2xl font-bold text-center py-8">Triple User</h2>
+          <p className="text-center text-4xl font-bold">$499</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8 mt-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8 mt-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">4 TB Storage</p>
+            <p className="py-2 border-b mx-8 mt-8">4 Granted Users</p>
+            <p className="py-2 border-b mx-8 mt-8">Send up to 3.5 GBs</p>
           </div>
           <button className="bg-[#00df9a] hover:brightness-90 w-[200px] rounded-md font-medium my-6 mx-auto py-3">Start Trial</button>
         </div>
