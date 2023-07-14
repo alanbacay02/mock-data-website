@@ -4,6 +4,7 @@ import Typed from 'react-typed';
 const Hero = () => {
   return (
     <div className="text-white">
+      {/* div has a margin-top of -96px to compensate for width of navbar. */}
       <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
       <p className="text-[#00df9a] sm:text-lg md:text-xl text font-bold p-2">GROWING WITH DATA ANALYTICS</p>
       <h1 className=" text-4xl sm:text-6xl md:text-7xl font-bold md:py-6">Grow with data.</h1>
