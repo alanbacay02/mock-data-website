@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className="flex flex-row justify-between items-center h-24 mx-auto px-6 text-white">
-      <h1 className="w-full text-3xl font-bold text-[#00df9a] select-none">REACT.</h1>
+      <h1 className="w-full text-3xl font-bold text-[#00df9a] select-none">ALCHEMY.</h1>
       <ul className="hidden md:flex">
         <li className="p-1 m-3 hover:cursor-pointer hover:scale-125 transition duration-200">Home</li>
         <li className="p-1 m-3 hover:cursor-pointer hover:scale-125 transition duration-200">Company</li>
