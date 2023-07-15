@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mock-data-website/static/css/main.d4c44ba0.css",
+    "main.js": "/mock-data-website/static/js/main.c58cf5de.js",
+    "static/media/laptop.jpg": "/mock-data-website/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/mock-data-website/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/mock-data-website/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/mock-data-website/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/mock-data-website/index.html",
+    "main.d4c44ba0.css.map": "/mock-data-website/static/css/main.d4c44ba0.css.map",
+    "main.c58cf5de.js.map": "/mock-data-website/static/js/main.c58cf5de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c44ba0.css",
+    "static/js/main.c58cf5de.js"
+  ]
+}
